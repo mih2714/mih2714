@@ -2,7 +2,7 @@
 
  Meu nome é Michelli 
 
--Estou estutando na plataforma alunara ✏📚
+-Estou estutando na plataforma alura ✏📚
 - Estou me desevolvendo na linguagem javascript
 - utilizo este espaço para minha organização e compartilhamento dos meus projentos desenvolvindos 
 
